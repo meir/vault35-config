@@ -28,7 +28,7 @@ WH_X   | Mouse wheel in direction.
 BOOT   | QMK Reboot.
 ROT    | Rotary encoder
 ✖      | Unassigned, will do nothing.
-\      | Empty will have the same key as previous layer.
+&nbsp; | Empty will have the same key as previous layer.
 
 > To get to the ADJUST layer you will have to hold `LOW` and `HIG` together.
 
